@@ -1,13 +1,13 @@
 {
   "name": "Chemex · The Morning Pour",
   "short_name": "Chemex",
-  "description": "A slow-morning Chemex timer with a Blue Ridge sunrise out the cabin window.",
+  "description": "A slow-morning Chemex timer: a paper-cut Blue Ridge sunrise.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#1c130d",
-  "theme_color": "#1c130d",
+  "background_color": "#1f4146",
+  "theme_color": "#1f4146",
   "icons": [
     { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
     { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },

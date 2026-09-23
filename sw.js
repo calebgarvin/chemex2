@@ -1,5 +1,5 @@
 // Offline support: the page is fetched fresh when online and served from cache when not.
-var CACHE = "chemex2-v1";
+var CACHE = "chemex2-v2";
 var CORE = ["./", "index.html", "manifest.webmanifest", "icons/icon.svg",
             "icons/icon-192.png", "icons/icon-512.png", "icons/apple-touch-icon.png"];
 
